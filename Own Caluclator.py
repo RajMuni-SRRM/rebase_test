@@ -37,19 +37,3 @@ while True:
 		print('\t Result:',c.sum)
 		print(msg)
 		print('Thank you.....')
-<<<<<<< HEAD
-=======
-		break
-<<<<<<< HEAD
-		
-=======
->>>>>>> sprint2
-<<<<<<< HEAD
->>>>>>> parent of 6081b2e... some change done in own caluclator
-=======
-        except ValueError as msg:
-                print('\t Result:',c.sum)
-                print(msg)
-                print('Thank you.....')
-                break
-
