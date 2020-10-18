@@ -53,21 +53,3 @@ while True:
                 print('Thank you.....')
                 break
 
->>>>>>> sprint1
-=======
-	#try:
-		#if c.sum==0:
-			#no=int(input('enter the number:'))
-			#c=Ca(no,'+',0)
-		#else:
-			#sym=input('enter the operation:')
-			#no=int(input('enter the number:'))
-			#pre=c.sum
-			#c=Ca(no,sym,pre)
-	#except ValueError as msg:
-		#print('\t Result:',c.sum)
-		#prinit(msg)
-		#print('Thank you.....')
-		#break
-		
->>>>>>> b3a2700da452cc56f94ad41fdffe67d07e6f71fa
